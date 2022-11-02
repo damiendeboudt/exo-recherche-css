@@ -1,0 +1,16 @@
+span {
+    letter-spacing: 3px;
+    text-transform: capitalize;
+}
+div {
+    text-indent: 20px;
+}
+p{
+    text-align: center;
+}
+body {
+    text-size-adjust: 80%;
+}
+.dernier {
+    letter-spacing: 10px;
+}
